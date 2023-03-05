@@ -22,4 +22,5 @@ $ python3 manage.py migrate
 ```bash
 $ python3 manage.py sqlmigrate polls 0001 # Show migration.
 $ python3 manage.py shell
+$ python3 manage.py test polls
 ```
